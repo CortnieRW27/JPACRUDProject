@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+
+#focus { 
+    position: relative; 
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5685a06669492ea07bb9b05d/1539184735409-83U2QITBO0P3KJNV1EGP/Assorted+Cupcakes.jpg?format=750w");
+    background-size: cover;
+}
+
+#focus::before {
+    content: "";
+    position: center;
+    top: 20px;
+    right: 20px;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgba(0,0,0,0.25);
+}

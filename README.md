@@ -1,7 +1,9 @@
 Description
+
 I started this assignment off with working on finishing my database table through MYSQL Workbench. Once that was finished I moved to SpringToolsSuite to start working on the different aspects to get my program running. I started working through my DAO Impl methods first, then I moved to working on mapping them in my Cupcake controller, doing so helped my to think about the different JSP files I would need to make my program run properly. After getting everything working and displaying properly I tried to work on making the page look esthetically pleasing. This happen to be the harder task for me in this assignment.
 
 Technologies
+
 Git Hub
 Chrome
 Eclipse
@@ -14,6 +16,7 @@ Class Material
 
 
 Lessons Learned
+
 - How to work in MYSQL Workbench, forward engineering a database table
 - More about Gradle
 - More about css/bootstrap, but also felt this was my biggest challenge this weekend
